@@ -1,5 +1,5 @@
 🐍 Snake Game
-A classic Snake Game built using ReactJS, with additional logic written in JavaScript, styled with HTML and CSS. This project demonstrates how a simple game can be brought to life with modern web technologies.
+A classic Snake Game built using ReactJS, with additional logic like linked list written , styled with HTML and CSS. This project demonstrates how a simple game can be brought to life with modern web technologies.
 
 
 🛠️ Built With
